@@ -1,0 +1,3 @@
+# Example dependencies — adjust versions for your project
+# Dependências de exemplo — ajusta as versões ao teu projeto
+rich>=13.0.0
